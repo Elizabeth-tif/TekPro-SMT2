@@ -1,0 +1,23 @@
+Manager
+FooStore
+John Doe
+2000.00
+20.1
+1.5
+85000
+100000
+Sales
+BarStore
+Alexander
+1200.00
+0
+1.5
+0.5
+Delivery
+BarStore
+Kevin
+1200.00
+15
+15
+10
+15

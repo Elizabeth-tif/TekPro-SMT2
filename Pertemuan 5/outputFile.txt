@@ -1,0 +1,35 @@
+******************************************************
+Number of employees working as MANAGER are: 1
+******************************************************
+1. Manager Details:
+Store Details: FooStore
+Employee Name: John Doe
+Base Pay: $2000.0
+Number of Hours worked: 20.1hrs
+Payment Rate per hour: $1.5/hr
+Total Sales in store: $100000.0
+Sales done: $85000.0
+Percentage of sales done: 85.00%
+Gross Payment: $2334.7
+Remaining store revenue: $82828.674225
+******************************************************
+Number of employees working as DELIVERY are: 1
+******************************************************
+Store Details: BarStore
+Employee Name: Kevin
+Base Pay: $1200.0
+Number of Hours worked: 15.0hrs
+Payment Rate per hour: $15.0/hr
+
+Payment: $1439.25
+******************************************************
+Number of employees working as SALES ASSOCIATES are: 1
+******************************************************
+Store Details: BarStore
+Employee Name: Alexander
+Base Pay: $1200.0
+Number of Hours worked: 0.0hrs
+Payment Rate per hour: $1.5/hr
+Sales Rate: 50.0%
+Total commission: $120.0
+Gross Payment: $1320.0
